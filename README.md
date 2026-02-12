@@ -67,5 +67,9 @@
 
 <hr>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mayar-Yasser&style=plastic&color=brightgreen" alt="Profile Views" height="25"/>
+</p>
+
 
 <h3 align="center">💬 “Great developers are not born… they are built through practice.”</h3>
