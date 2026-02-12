@@ -67,14 +67,5 @@
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayar-Yasser&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayar-Yasser&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<hr>
-
 
 <h3 align="center">💬 “Great developers are not born… they are built through practice.”</h3>
