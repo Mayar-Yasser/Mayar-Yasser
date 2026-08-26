@@ -48,8 +48,9 @@
 
 <h3>🛠 Backend & Database</h3>
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/dotnet.svg" width="48" height="48" alt=".NET" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="SQL Server" />
 </p>
 
 <h3>⚙️ Tools & IDES</h3>
