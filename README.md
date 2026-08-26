@@ -48,7 +48,8 @@
 
 <h3>🛠 Backend & Database</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server" style="vertical-align: middle;" />
 </p>
 
 <h3>⚙️ Tools & IDES</h3>
