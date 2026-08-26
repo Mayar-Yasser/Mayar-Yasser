@@ -38,12 +38,12 @@
 
 <h3>👩‍💻 Programming Languages</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,python"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,js"/>
 </p>
 
 <h3>🌐 Frontend</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,angular"/>
 </p>
 
 <h3>🛠 Backend & Database</h3>
