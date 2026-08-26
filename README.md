@@ -23,12 +23,12 @@
 <h2>🌐 Connect With Me</h2>
 
 <p>
-<a href="https://www.linkedin.com/in/mayar-yasser-/">
-<img src="https://img.shields.io/badge/LinkedIn-Mayar%20Yasser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mayar-yasser-/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
 </a>
-
+&nbsp;
 <a href="mailto:mayaryasser2274@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-mayaryasser2274%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
 </a>
 </p>
 
