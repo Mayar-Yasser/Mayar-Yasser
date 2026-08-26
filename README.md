@@ -48,13 +48,12 @@
 
 <h3>🛠 Backend & Database</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="SQL Server" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres"/>
 </p>
 
 <h3>⚙️ Tools & IDES</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github"/>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman"/>
 </p>
 
 <hr>
