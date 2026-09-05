@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Mayar-Yasser/Profile-Banner/blob/main/Banner.jpg?raw=true" alt="Mayar Yasser Profile Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mayar Yasser</h1>
 
 <h3 align="center">Software Engineering Student 💻 | Full Stack .NET Developer 🚀</h3>
