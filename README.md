@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineering Student 💻 | Full Stack .NET Developer 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+.NET+Developer;Backend+.NET+Core+Enthusiast;Always+Building+%26+Learning&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+.NET+Developer;Backend+.NET+Core+Enthusiast;Always+Building+%26+Learning&center=true&width=500&height=45&color=A855F7">
 </p>
 
 <hr>
